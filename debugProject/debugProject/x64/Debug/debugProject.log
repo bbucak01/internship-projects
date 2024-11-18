@@ -1,0 +1,20 @@
+﻿  main.cpp
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(73,30): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(104,26): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(127,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(168,30): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(190,26): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(211,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(252,32): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(274,28): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(295,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(336,31): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(358,27): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(379,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(420,31): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(442,27): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(463,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(504,30): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(527,26): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\brknb\source\repos\debugProject\debugProject\Task.h(548,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  debugProject.vcxproj -> C:\Users\brknb\source\repos\debugProject\x64\Debug\debugProject.exe
